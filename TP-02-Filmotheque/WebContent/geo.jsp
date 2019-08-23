@@ -29,8 +29,8 @@
 		
 //		$("#maposition").html(chaine);
 		
-		lat = 47.2261843;
-		lon = -1.6202782;
+		lat = 46.474575;
+		lon = -0.556954;
 		
 		var latlng = new google.maps.LatLng(lat, lon);
 		var myOptions = {
@@ -90,10 +90,10 @@
 							</div>	
 							<div class="panel-body">
 								<p>Du lundi au vendredi de 8h00 à 19h00</p>
-								<p class="text-info">02.28.03.17.28</p>
+								<p class="text-info">06.70.34.12.41</p>
 							</div>
 							<div class="panel-footer">
-								<span><small>N'hésitez pas à nous contacter</small></span>
+								<span><small>N'hésitez pas à me contacter</small></span>
 							</div>	
 						</div>
 					</div>
@@ -105,11 +105,11 @@
 							</div>	
 							<div class="panel-body panel-body-info">
 								
-									<p>2B rue Benjamin Franklin <br>
-									ZAC Moulin Neuf <br>
-									44800 Saint-Herblain</p>
+									<p>HIGELIN Julien<br>
+									10 rue Jean de Saint Goard <br>
+									79160 ARDIN</p>
 									<p><span class="glyphicon glyphicon-phone-alt pull-right"> </span></p>
-									<p><a href="mailto:ecole@eni-ecole.fr">ecole@eni-ecole.fr</a></p>
+									<p><a href="mailto:julien.higelin@gmail.com">julien.higelin@gmail.com</a></p>
 								
 							</div>
 						</div>
@@ -126,14 +126,14 @@
 						
 								<div class="col-xs-6 text-center">
 								<p></p>
-									<p><a target="viadeo" href="http://fr.viadeo.com/fr/company/eni-ecole-informatique"><img src="img/viadeo.png" border="0" alt="Profil Viadeo"/></a></p>
-									<p><a target="viadeo" href="http://fr.viadeo.com/fr/company/eni-ecole-informatique">Viadeo</a></p>
+									<p><a target="viadeo" href="http://fr.viadeo.com/fr/profile/julien.higelin"><img src="img/viadeo.png" border="0" alt="Profil Viadeo"/></a></p>
+									<p><a target="viadeo" href="http://fr.viadeo.com/fr/profile/julien.higelin">Viadeo</a></p>
 
 								</div>
 								<div class="col-xs-6 text-center">
 								<p></p>
-									<p><a target="in" href="https://fr.linkedin.com/edu/eni-ecole-informatique-201017" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="img/icone-in.png" width="36" height="36" alt="Voir le profil LinkedIn de Sopra Steria" style="vertical-align:middle;" border="0"></span></a></p>
-									<p><a target="in" href="https://fr.linkedin.com/edu/eni-ecole-informatique-201017" >Linked In</a></p>
+									<p><a target="in" href="https://www.linkedin.com/in/julien-higelin-967663104/?originalSubdomain=fr" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="img/icone-in.png" width="36" height="36" alt="Voir le profil LinkedIn de Sopra Steria" style="vertical-align:middle;" border="0"></span></a></p>
+									<p><a target="in" href="https://www.linkedin.com/in/julien-higelin-967663104/?originalSubdomain=fr" >Linked In</a></p>
 								</div>
 								
 							</div><p></p>
